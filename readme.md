@@ -40,4 +40,4 @@ I'm **Muhammad Hasan Tariq**, a Computer Science student (BSc, University of Lon
 
 ##  Connect
 [Email](mailto:hasantariqshk@gmail.com) · [LinkedIn](https://linkedin.com/in/muhammad-hasan-tariq)
-**muhammadhasantariq/muhammadhasantariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**muhammadhasantariq
