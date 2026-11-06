@@ -36,7 +36,7 @@ I'm **Muhammad Hasan Tariq**, a Computer Science student (BSc, University of Lon
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadhasantariq&show_icons=true&theme=github_dark" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhasantariq&theme=github-dark" />
-</p>
+</p> 
 
 ##  Connect
 [Email](mailto:hasantariqshk@gmail.com) · [LinkedIn](https://linkedin.com/in/muhammad-hasan-tariq)
