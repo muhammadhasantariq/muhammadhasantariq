@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--<!-- Replace "muhammadhasantariq" with your GitHub username (and the repo must have that same name) -->
 <p align="center">
   <img src="card.svg" alt="Hasan Tariq profile card" width="900">
 </p>
